@@ -1,6 +1,6 @@
 ## Test Cases
 
-Trangle(double a, double b, double c)
+Triangle(double a, double b, double c)
 
 | Input | Expected | Actual |
 | ------------- |:-------------:| -----:|
