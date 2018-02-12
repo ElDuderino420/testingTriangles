@@ -14,3 +14,6 @@ Trangle(double a, double b, double c)
 | 2, 1, 3 | scalene triangle |  |
 | 3, 2, 1 | scalene triangle |  |
 | 1, 3, 2 | scalene triangle |  |
+| 0, 0, 0 | not a triangle |  |
+| -10, 0, 0 | not a triangle |  |
+
